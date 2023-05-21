@@ -59,4 +59,3 @@ $response->send();
 
 $kernel->terminate($request, $response);
 ?>
-<div>Hello</div>
